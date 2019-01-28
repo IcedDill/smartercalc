@@ -1,0 +1,2 @@
+# smartercalc
+calc with parsing
